@@ -1,2 +1,2734 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!-- Rectangle 4599 -->
+<View
+android:id="@+id/rectangle_4"
+android:layout_width="1440dp"
+android:layout_height="632dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4331dp"
+android:background="@drawable/rectangle_4"
+android:alpha="0.1"
+ />
+
+
+<!-- drawable/rectangle_4.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="1440dp"
+android:height="632dp"
+android:viewportWidth="1440"
+android:viewportHeight="632"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H1440V632H0V0Z"
+/>
+
+<group
+android:translateX="0.866"
+android:translateY="0"
+android:pivotX="720"
+android:pivotY="316"
+android:scaleX="1.464"
+android:scaleY="1.464"
+android:rotation="90"
+>
+
+<path
+android:pathData="M0 0V632H1440V0"
+>
+
+<aapt:attr name="android:fillColor">
+
+<gradient
+android:type="linear"
+android:startX="360"
+android:startY="316"
+android:endX="1080"
+android:endY="316"
+>
+
+<item
+android:color="#00FFFFFF"
+android:offset="0"
+/>
+
+<item
+android:color="#FDC55E"
+android:offset="1"
+/>
+
+</gradient>
+
+</aapt:attr>
+
+</path>
+
+</group>
+
+</group>
+
+</vector>
+
+
+
+<!-- Vector 10 -->
+<View
+android:id="@+id/vector_10"
+android:layout_width="157dp"
+android:layout_height="213.5dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1283.5dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4803dp"
+android:background="@drawable/vector_10"
+ />
+
+
+<!-- drawable/vector_10.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="159dp"
+android:height="215.5dp"
+android:viewportWidth="159"
+android:viewportHeight="215.5"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H158V214.5H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H158V214.5H1V1Z"
+android:strokeWidth="2"
+android:strokeColor="#000000"
+/>
+
+</vector>
+
+
+
+<!-- Group 8441 -->
+<View
+android:id="@+id/group_8441"
+android:layout_width="1134dp"
+android:layout_height="494dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1075dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4733.25dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Ellipse 44 -->
+<View
+android:id="@+id/ellipse_44"
+android:layout_width="570dp"
+android:layout_height="570dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1393.64dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4955.34dp"
+android:background="@drawable/ellipse_44"
+ />
+
+
+<!-- drawable/ellipse_44.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="570dp"
+android:height="570dp"
+android:viewportWidth="570"
+android:viewportHeight="570"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M570 285C570 442.401 442.401 570 285 570C127.599 570 0 442.401 0 285C0 127.599 127.599 0 285 0C442.401 0 570 127.599 570 285Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- unsplash:jWU9FpLW7fI -->
+<View
+android:id="@+id/unsplash_jw"
+android:layout_width="476dp"
+android:layout_height="476dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="860dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4435dp"
+android:background="@drawable/unsplash_jw"
+ />
+
+
+<!-- drawable/unsplash_jw.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="476dp"
+android:height="476dp"
+android:viewportWidth="476"
+android:viewportHeight="476"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M476 238C476 369.444 369.444 476 238 476C106.556 476 0 369.444 0 238C0 106.556 106.556 0 238 0C369.444 0 476 106.556 476 238Z"
+/>
+
+<path
+android:pathData="M0 0V476H476V0"
+android:fillColor="#C4C4C4"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Group 8463 -->
+<View
+android:id="@+id/group_8463"
+android:layout_width="476dp"
+android:layout_height="643.88dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="860dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4266.81dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- rosemary -->
+<View
+android:id="@+id/rosemary"
+android:layout_width="0dp"
+android:layout_height="133dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1623dp"
+android:background="@drawable/rosemary"
+ />
+
+
+<!-- drawable/rosemary.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="176dp"
+android:height="135dp"
+android:viewportWidth="176"
+android:viewportHeight="135"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H175V134H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H175V134H1V1Z"
+android:strokeWidth="2"
+android:strokeMiterLimit="10"
+android:strokeColor="#3DA42D"
+/>
+
+</vector>
+
+
+
+<!-- Group 8438 -->
+<View
+android:id="@+id/group_8438"
+android:layout_width="718dp"
+android:layout_height="312.78dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1061dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="571.89dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Rectangle 4582 -->
+<View
+android:id="@+id/rectangle_4"
+android:layout_width="1440dp"
+android:layout_height="788dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentTop="true"
+android:layout_marginTop="-24dp"
+android:background="@drawable/rectangle_4"
+ />
+
+
+<!-- drawable/rectangle_4.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="1440dp"
+android:height="788dp"
+android:viewportWidth="1440"
+android:viewportHeight="788"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H1440V788H0V0Z"
+/>
+
+<group
+android:translateX="1"
+android:translateY="0"
+android:pivotX="720"
+android:pivotY="394"
+android:scaleX="2"
+android:scaleY="2"
+android:rotation="90"
+>
+
+<path
+android:pathData="M0 0V788H1440V0"
+>
+
+<aapt:attr name="android:fillColor">
+
+<gradient
+android:type="linear"
+android:fillAlpha="0.06"
+android:startX="360"
+android:startY="394"
+android:endX="1080"
+android:endY="394"
+>
+
+<item
+android:color="#F54748"
+android:offset="0"
+/>
+
+<item
+android:color="#00F54748"
+android:offset="1"
+/>
+
+</gradient>
+
+</aapt:attr>
+
+</path>
+
+</group>
+
+</group>
+
+</vector>
+
+
+
+<!-- Ellipse 42 -->
+<View
+android:id="@+id/ellipse_42"
+android:layout_width="576.1dp"
+android:layout_height="418.78dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="965dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="-123dp"
+android:background="@drawable/ellipse_42"
+ />
+
+
+<!-- drawable/ellipse_42.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="576.1dp"
+android:height="418.78dp"
+android:viewportWidth="576.1"
+android:viewportHeight="418.78"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H576.099V418.78H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V418.78H576.099V0"
+android:fillColor="#FDC55E"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Frame 12 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/frame_12"
+android:layout_width="657dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="461dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="23dp"
+android:background="@drawable/frame_12"
+ />
+
+
+<!-- drawable/frame_12.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="657dp"
+android:height="21dp"
+android:viewportWidth="657"
+android:viewportHeight="21"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H657V21H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Polygon 1 -->
+<View
+android:id="@+id/polygon_1"
+android:layout_width="24dp"
+android:layout_height="24dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1299dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="124.58dp"
+android:background="@drawable/polygon_1"
+ />
+
+
+<!-- drawable/polygon_1.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="24dp"
+android:height="24dp"
+android:viewportWidth="24"
+android:viewportHeight="24"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M3 0H21C22.6569 0 24 1.34315 24 3V21C24 22.6569 22.6569 24 21 24H3C1.34315 24 0 22.6569 0 21V3C0 1.34315 1.34315 0 3 0Z"
+/>
+
+<path
+android:pathData="M0 0V24H24V0"
+android:fillColor="#F54748"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Vector 3 -->
+<View
+android:id="@+id/vector_3"
+android:layout_width="116.69dp"
+android:layout_height="315dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1260dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="128dp"
+android:background="@drawable/vector_3"
+ />
+
+
+<!-- drawable/vector_3.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="118.69dp"
+android:height="317dp"
+android:viewportWidth="118.69"
+android:viewportHeight="317"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H117.689V316H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H117.689V316H1V1Z"
+android:strokeWidth="2"
+android:strokeCap="round"
+android:strokeJoin="round"
+android:strokeColor="#FDC55E"
+/>
+
+</vector>
+
+
+
+<!-- Ellipse 44 -->
+<View
+android:id="@+id/ellipse_44"
+android:layout_width="570dp"
+android:layout_height="570dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="743dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="185.5dp"
+android:background="@drawable/ellipse_44"
+ />
+
+
+<!-- drawable/ellipse_44.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="570dp"
+android:height="570dp"
+android:viewportWidth="570"
+android:viewportHeight="570"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M570 285C570 442.401 442.401 570 285 570C127.599 570 0 442.401 0 285C0 127.599 127.599 0 285 0C442.401 0 570 127.599 570 285Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Group 3 -->
+<View
+android:id="@+id/group_3"
+android:layout_width="162dp"
+android:layout_height="45dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1217dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="12dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8427 -->
+<View
+android:id="@+id/group_8427"
+android:layout_width="162dp"
+android:layout_height="45dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="632dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s -->
+<TextView
+android:id="@+id/lorem_ipsum"
+android:layout_width="517dp"
+android:layout_height="112dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="411dp"
+android:text="@string/lorem_ipsum"
+android:textAppearance="@style/lorem_ipsum"
+android:gravity="top"
+android:alpha="0.8"
+ />
+
+<!--
+Font family: Arial
+Line height: 28sp
+-->
+<!-- styles.xml -->
+<style name="lorem_ipsum">
+
+<item name="android:textSize">
+24sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="lorem_ipsum">
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s
+</string>
+
+
+
+
+<!-- We're Serious For Food & Services. -->
+<TextView
+android:id="@+id/we_re_serio"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_alignParentBottom="true"
+android:text="@string/we_re_serio"
+android:textAppearance="@style/we_re_serio"
+android:lineSpacingExtra="-1sp"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 66sp
+-->
+<!-- styles.xml -->
+<style name="we_re_serio">
+
+<item name="android:textSize">
+50sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="we_re_serio">
+
+We\'re Serious For Food & Services.
+</string>
+
+
+
+
+<!-- Group 8428 -->
+<View
+android:id="@+id/group_8428"
+android:layout_width="139dp"
+android:layout_height="28dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="76dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="188dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8429 -->
+<View
+android:id="@+id/group_8429"
+android:layout_width="488dp"
+android:layout_height="586.5dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="787dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="127dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Vector 2 -->
+<View
+android:id="@+id/vector_2"
+android:layout_width="132.5dp"
+android:layout_height="140dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="224dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="68.5dp"
+android:background="@drawable/vector_2"
+android:alpha="0.5"
+ />
+
+
+<!-- drawable/vector_2.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="134.5dp"
+android:height="142dp"
+android:viewportWidth="134.5"
+android:viewportHeight="142"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H133.5V141H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H133.5V141H1V1Z"
+android:strokeWidth="2"
+android:strokeColor="#F54748"
+/>
+
+</vector>
+
+
+
+<!-- Arrow 1 (Stroke) -->
+<View
+android:id="@+id/arrow_1_str"
+android:layout_width="7.38dp"
+android:layout_height="13dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="362.93dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="209dp"
+android:background="@drawable/arrow_1_str"
+android:alpha="0.5"
+ />
+
+
+<!-- drawable/arrow_1_str.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="7.38dp"
+android:height="13dp"
+android:viewportWidth="7.38"
+android:viewportHeight="13"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H7.38268V13H0V0Z"
+/>
+
+<path
+android:pathData="M0 0V13H7.38268V0"
+android:fillColor="#F54748"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Orange -->
+<View
+android:id="@+id/orange"
+android:layout_width="0dp"
+android:layout_height="74dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_marginTop="225dp"
+android:background="@drawable/orange"
+android:alpha="0.1"
+ />
+
+
+<!-- drawable/orange.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="86dp"
+android:height="76dp"
+android:viewportWidth="86"
+android:viewportHeight="76"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H85V75H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H85V75H1V1Z"
+android:strokeWidth="2"
+android:strokeMiterLimit="10"
+android:strokeColor="#F54748"
+/>
+
+</vector>
+
+
+
+<!-- Rectangle 4583 -->
+<View
+android:id="@+id/rectangle_4"
+android:layout_width="471dp"
+android:layout_height="54dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="544dp"
+android:background="@drawable/rectangle_4"
+ />
+
+
+<!-- drawable/rectangle_4.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="471dp"
+android:height="54dp"
+android:viewportWidth="471"
+android:viewportHeight="54"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M27 0H444C458.912 0 471 12.0883 471 27C471 41.9117 458.912 54 444 54H27C12.0883 54 0 41.9117 0 27C0 12.0883 12.0883 0 27 0Z"
+/>
+
+<path
+android:pathData="M0 0V54H471V0"
+android:fillColor="#FFFFFF"
+/>
+
+<path
+android:pathData="M27 0H444C458.912 0 471 12.0883 471 27C471 41.9117 458.912 54 444 54H27C12.0883 54 0 41.9117 0 27C0 12.0883 12.0883 0 27 0Z"
+android:strokeWidth="1"
+android:strokeColor="#191919"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Decore -->
+<View
+android:id="@+id/decore"
+android:layout_width="263dp"
+android:layout_height="8.2dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="278dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="384dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Search food -->
+<TextView
+android:id="@+id/search_food"
+android:layout_width="96dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="121dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="559dp"
+android:text="@string/search_food"
+android:textAppearance="@style/search_food"
+android:gravity="top"
+android:alpha="0.5"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="search_food">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:letterSpacing">
+-0.01
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="search_food">
+
+Search food
+</string>
+
+
+
+
+<!-- bx:bx-search -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/bx_bx_searc"
+android:layout_width="24dp"
+android:layout_height="24dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="85dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="559dp"
+android:clipToOutline="true"
+android:background="@drawable/bx_bx_searc"
+ />
+
+
+<!-- drawable/bx_bx_searc.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="24dp"
+android:height="24dp"
+android:viewportWidth="24"
+android:viewportHeight="24"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H24V24H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Group 8430 -->
+<View
+android:id="@+id/group_8430"
+android:layout_width="42dp"
+android:layout_height="42dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="490dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="550dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- emojione:fire -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/emojione_fi"
+android:layout_width="46dp"
+android:layout_height="46dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1018dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="106dp"
+android:clipToOutline="true"
+android:background="@drawable/emojione_fi"
+ />
+
+
+<!-- drawable/emojione_fi.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="46dp"
+android:height="46dp"
+android:viewportWidth="46"
+android:viewportHeight="46"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H46V46H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!--  Mint -->
+<View
+android:id="@+id/mint"
+android:layout_width="0dp"
+android:layout_height="87dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_marginTop="543dp"
+android:background="@drawable/mint"
+android:alpha="0.1"
+ />
+
+
+<!-- drawable/mint.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="131dp"
+android:height="89dp"
+android:viewportWidth="131"
+android:viewportHeight="89"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H130V88H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H130V88H1V1Z"
+android:strokeWidth="2"
+android:strokeMiterLimit="10"
+android:strokeColor="#F54748"
+/>
+
+</vector>
+
+
+
+<!-- Group 8431 -->
+<View
+android:id="@+id/group_8431"
+android:layout_width="36dp"
+android:layout_height="48.5dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1112dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="235dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8432 -->
+<View
+android:id="@+id/group_8432"
+android:layout_width="36dp"
+android:layout_height="48.5dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="965.92dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="299.81dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8433 -->
+<View
+android:id="@+id/group_8433"
+android:layout_width="186dp"
+android:layout_height="45.21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1180dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="295dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Card -->
+<View
+android:id="@+id/card"
+android:layout_width="170dp"
+android:layout_height="81.08dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="730dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="283dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Meal-PNG-Download-Image 2 -->
+<View
+android:id="@+id/meal_png_do"
+android:layout_width="133dp"
+android:layout_height="133dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1211dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="498dp"
+android:background="@drawable/meal_png_do"
+ />
+
+
+<!-- drawable/meal_png_do.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="133dp"
+android:height="133dp"
+android:viewportWidth="133"
+android:viewportHeight="133"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H133V133H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- pngfind 1 -->
+<View
+android:id="@+id/pngfind_1"
+android:layout_width="178dp"
+android:layout_height="162dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1059dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="613dp"
+android:background="@drawable/pngfind_1"
+ />
+
+
+<!-- drawable/pngfind_1.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="178dp"
+android:height="162dp"
+android:viewportWidth="178"
+android:viewportHeight="162"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H178V162H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Meal-PNG-Download-Image 1 -->
+<View
+android:id="@+id/meal_png_do"
+android:layout_width="153dp"
+android:layout_height="152dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="847dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="632dp"
+android:background="@drawable/meal_png_do"
+ />
+
+
+<!-- drawable/meal_png_do.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="153dp"
+android:height="152dp"
+android:viewportWidth="153"
+android:viewportHeight="152"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H153V152H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- t4gag1e6fmeokhs7mt3g58vhbt 1 -->
+<View
+android:id="@+id/t4gag1e6fme"
+android:layout_width="171dp"
+android:layout_height="166dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="677dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="481dp"
+android:background="@drawable/t4gag1e6fme"
+ />
+
+
+<!-- drawable/t4gag1e6fme.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="171dp"
+android:height="166dp"
+android:viewportWidth="171"
+android:viewportHeight="166"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H171V166H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Play Demo -->
+<View
+android:id="@+id/play_demo"
+android:layout_width="203dp"
+android:layout_height="52dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="263dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="628dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- SeekPng -->
+<View
+android:id="@+id/seekpng"
+android:layout_width="144.04dp"
+android:layout_height="108.81dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1158.3dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="315.72dp"
+android:background="@drawable/seekpng"
+ />
+
+
+<!-- drawable/seekpng.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="144.04dp"
+android:height="108.81dp"
+android:viewportWidth="144.04"
+android:viewportHeight="108.81"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H144.037V108.811H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- slider -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/slider"
+android:layout_width="22dp"
+android:layout_height="61dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="753dp"
+android:background="@drawable/slider"
+ />
+
+
+<!-- drawable/slider.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="22dp"
+android:height="61dp"
+android:viewportWidth="22"
+android:viewportHeight="61"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H22V61H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Today special offers -->
+<TextView
+android:id="@+id/today_speci"
+android:layout_width="475dp"
+android:layout_height="55dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="490dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="910dp"
+android:text="@string/today_speci"
+android:textAppearance="@style/today_speci"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 55sp
+-->
+<!-- styles.xml -->
+<style name="today_speci">
+
+<item name="android:textSize">
+48sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="today_speci">
+
+Today special offers
+</string>
+
+
+
+
+<!-- Menu that always make you fall in love -->
+<TextView
+android:id="@+id/menu_that_a"
+android:layout_width="653dp"
+android:layout_height="110dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="394dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2693dp"
+android:text="@string/menu_that_a"
+android:textAppearance="@style/menu_that_a"
+android:gravity="center_horizontal|top"
+ />
+
+<!--
+Font family: Arial
+Line height: 55sp
+-->
+<!-- styles.xml -->
+<style name="menu_that_a">
+
+<item name="android:textSize">
+48sp
+</item>
+
+<item name="android:textColor">
+#F54748
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="menu_that_a">
+
+Menu that always make you fall in love
+</string>
+
+
+
+
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s -->
+<TextView
+android:id="@+id/lorem_ipsum"
+android:layout_width="856dp"
+android:layout_height="42dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="324dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="999dp"
+android:text="@string/lorem_ipsum"
+android:textAppearance="@style/lorem_ipsum"
+android:gravity="center_horizontal|top"
+android:alpha="0.8"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+-->
+<!-- styles.xml -->
+<style name="lorem_ipsum">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="lorem_ipsum">
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s
+</string>
+
+
+
+
+<!-- Decore -->
+<View
+android:id="@+id/decore"
+android:layout_width="96dp"
+android:layout_height="252dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="455dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2072dp"
+android:background="@drawable/decore"
+ />
+
+
+<!-- drawable/decore.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="97dp"
+android:height="253dp"
+android:viewportWidth="97"
+android:viewportHeight="253"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0.5 0.5H96.5V252.5H0.5V0.5Z"
+/>
+
+</group>
+
+<path
+android:pathData="M0.5 0.5H96.5V252.5H0.5V0.5Z"
+android:strokeWidth="1"
+android:strokeColor="#0A4900"
+/>
+
+</vector>
+
+
+
+<!-- Group 8436 -->
+<View
+android:id="@+id/group_8436"
+android:layout_width="114dp"
+android:layout_height="45dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2436dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- We are more than food joint -->
+<TextView
+android:id="@+id/we_are_more"
+android:layout_width="452dp"
+android:layout_height="124dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2015dp"
+android:text="@string/we_are_more"
+android:textAppearance="@style/we_are_more"
+android:lineSpacingExtra="7sp"
+android:translationY="-3.58sp"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 62sp
+translationY compensates for the line height adjustment of text
+-->
+<!-- styles.xml -->
+<style name="we_are_more">
+
+<item name="android:textSize">
+48sp
+</item>
+
+<item name="android:textColor">
+#000000
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="we_are_more">
+
+We are more than food joint
+</string>
+
+
+
+
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s -->
+<TextView
+android:id="@+id/lorem_ipsum"
+android:layout_width="619dp"
+android:layout_height="69dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2160dp"
+android:text="@string/lorem_ipsum"
+android:textAppearance="@style/lorem_ipsum"
+android:gravity="top"
+android:alpha="0.8"
+ />
+
+<!--
+Font family: Arial
+Line height: 23sp
+-->
+<!-- styles.xml -->
+<style name="lorem_ipsum">
+
+<item name="android:textSize">
+20sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="lorem_ipsum">
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s
+</string>
+
+
+
+
+<!-- Vector 9 -->
+<View
+android:id="@+id/vector_9"
+android:layout_width="405.5dp"
+android:layout_height="118.95dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="455dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1893.05dp"
+android:background="@drawable/vector_9"
+ />
+
+
+<!-- drawable/vector_9.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="407.5dp"
+android:height="120.95dp"
+android:viewportWidth="407.5"
+android:viewportHeight="120.95"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M1 1H406.5V119.947H1V1Z"
+/>
+
+</group>
+
+<path
+android:pathData="M1 1H406.5V119.947H1V1Z"
+android:strokeWidth="2"
+android:strokeColor="#FDC55E"
+/>
+
+</vector>
+
+
+
+<!-- Online Order -->
+<TextView
+android:id="@+id/online_orde"
+android:layout_width="91dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="675dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2262dp"
+android:text="@string/online_orde"
+android:textAppearance="@style/online_orde"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="online_orde">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="online_orde">
+
+Online Order
+</string>
+
+
+
+
+<!-- Pre-Reservation -->
+<TextView
+android:id="@+id/pre_reserva"
+android:layout_width="114dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="675dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2317dp"
+android:text="@string/pre_reserva"
+android:textAppearance="@style/pre_reserva"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="pre_reserva">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="pre_reserva">
+
+Pre-Reservation
+</string>
+
+
+
+
+<!-- Super Chef -->
+<TextView
+android:id="@+id/super_chef"
+android:layout_width="79dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="675dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2378dp"
+android:text="@string/super_chef"
+android:textAppearance="@style/super_chef"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="super_chef">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="super_chef">
+
+Super Chef
+</string>
+
+
+
+
+<!-- Clean Kitchen Setup -->
+<TextView
+android:id="@+id/clean_kitch"
+android:layout_width="144dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="934dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2378dp"
+android:text="@string/clean_kitch"
+android:textAppearance="@style/clean_kitch"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="clean_kitch">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="clean_kitch">
+
+Clean Kitchen Setup
+</string>
+
+
+
+
+<!-- Oragonized Foodjoint -->
+<TextView
+android:id="@+id/oragonized_"
+android:layout_width="153dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="934dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2317dp"
+android:text="@string/oragonized_"
+android:textAppearance="@style/oragonized_"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="oragonized_">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="oragonized_">
+
+Oragonized Foodjoint 
+</string>
+
+
+
+
+<!-- 24/7 Service -->
+<TextView
+android:id="@+id/service"
+android:layout_width="86dp"
+android:layout_height="21dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="934dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2262dp"
+android:text="@string/service"
+android:textAppearance="@style/service"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="service">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="service">
+
+24/7 Service
+</string>
+
+
+
+
+<!-- image 15 -->
+<View
+android:id="@+id/image_15"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2261dp"
+android:background="@drawable/image_15"
+ />
+
+
+<!-- drawable/image_15.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- image 17 -->
+<View
+android:id="@+id/image_17"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="898dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2261dp"
+android:background="@drawable/image_17"
+ />
+
+
+<!-- drawable/image_17.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- image 18 -->
+<View
+android:id="@+id/image_18"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2316dp"
+android:background="@drawable/image_18"
+ />
+
+
+<!-- drawable/image_18.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- image 20 -->
+<View
+android:id="@+id/image_20"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="639dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2377dp"
+android:background="@drawable/image_20"
+ />
+
+
+<!-- drawable/image_20.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- image 21 -->
+<View
+android:id="@+id/image_21"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="898dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2377dp"
+android:background="@drawable/image_21"
+ />
+
+
+<!-- drawable/image_21.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- image 19 -->
+<View
+android:id="@+id/image_19"
+android:layout_width="26dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="898dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2316dp"
+android:background="@drawable/image_19"
+ />
+
+
+<!-- drawable/image_19.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="26dp"
+android:height="26dp"
+android:viewportWidth="26"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H26V26H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Group 8472 -->
+<View
+android:id="@+id/group_8472"
+android:layout_width="692.93dp"
+android:layout_height="619.04dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="-124dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1872dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8449 -->
+<View
+android:id="@+id/group_8449"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="75dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1113dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8454 -->
+<View
+android:id="@+id/group_8454"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="75dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3029dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Frame 9 -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/frame_9"
+android:layout_width="1011dp"
+android:layout_height="41dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="211dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="2877dp"
+android:background="@drawable/frame_9"
+ />
+
+
+<!-- drawable/frame_9.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="1011dp"
+android:height="41dp"
+android:viewportWidth="1011"
+android:viewportHeight="41"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H1011V41H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Group 8458 -->
+<View
+android:id="@+id/group_8458"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="75dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3611dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8450 -->
+<View
+android:id="@+id/group_8450"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="403dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1113dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8455 -->
+<View
+android:id="@+id/group_8455"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="403dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3029dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8459 -->
+<View
+android:id="@+id/group_8459"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="403dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3611dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8451 -->
+<View
+android:id="@+id/group_8451"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="731dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1113dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8456 -->
+<View
+android:id="@+id/group_8456"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="731dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3029dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8460 -->
+<View
+android:id="@+id/group_8460"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="731dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3611dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8452 -->
+<View
+android:id="@+id/group_8452"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1059dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="1113dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8457 -->
+<View
+android:id="@+id/group_8457"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1059dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3029dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group 8461 -->
+<View
+android:id="@+id/group_8461"
+android:layout_width="310dp"
+android:layout_height="516dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1059dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="3611dp"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- Group -->
+<View
+android:id="@+id/group"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_alignParentBottom="true"
+android:background="#00000000"
+android:alpha="0.3"
+ />
+
+
+
+
+<!-- Footer -->
+<View
+android:id="@+id/footer"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_alignParentBottom="true"
+android:background="#00000000"
+ />
+
+
+
+
+<!-- It’s Now More Easier to Order by Our Mobile App -->
+<TextView
+android:id="@+id/it_s_now_mo"
+android:layout_width="643dp"
+android:layout_height="110dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4419dp"
+android:text="@string/it_s_now_mo"
+android:textAppearance="@style/it_s_now_mo"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 55sp
+-->
+<!-- styles.xml -->
+<style name="it_s_now_mo">
+
+<item name="android:textSize">
+48sp
+</item>
+
+<item name="android:textColor">
+#000000
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="it_s_now_mo">
+
+It\u00E2\u0080\u0099s Now More Easier to Order by Our Mobile App
+</string>
+
+
+
+
+<!-- Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s -->
+<TextView
+android:id="@+id/lorem_ipsum"
+android:layout_width="550dp"
+android:layout_height="63dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4600dp"
+android:text="@string/lorem_ipsum"
+android:textAppearance="@style/lorem_ipsum"
+android:gravity="top"
+android:alpha="0.8"
+ />
+
+<!--
+Font family: Arial
+Line height: 21sp
+-->
+<!-- styles.xml -->
+<style name="lorem_ipsum">
+
+<item name="android:textSize">
+18sp
+</item>
+
+<item name="android:textColor">
+#191919
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="lorem_ipsum">
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s
+</string>
+
+
+
+
+<!-- 5a3ac62578a9f8 -->
+<View
+android:id="@+id/a3ac62578a9"
+android:layout_width="253.72dp"
+android:layout_height="249.63dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1188dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4372.38dp"
+android:background="@drawable/a3ac62578a9"
+ />
+
+
+<!-- drawable/a3ac62578a9.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="253.72dp"
+android:height="249.63dp"
+android:viewportWidth="253.72"
+android:viewportHeight="249.63"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H253.724V249.632H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- SeekPng -->
+<View
+android:id="@+id/seekpng"
+android:layout_width="271dp"
+android:layout_height="179dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1092dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4874dp"
+android:background="@drawable/seekpng"
+ />
+
+
+<!-- drawable/seekpng.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="271dp"
+android:height="179dp"
+android:viewportWidth="271"
+android:viewportHeight="179"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M0 0H271V179H0V0Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Mobile app store badge -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/mobile_app_"
+android:layout_width="135dp"
+android:layout_height="40dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="70dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4714dp"
+android:clipToOutline="true"
+android:background="@drawable/mobile_app_"
+ />
+
+
+<!-- drawable/mobile_app_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="135dp"
+android:height="40dp"
+android:viewportWidth="135"
+android:viewportHeight="40"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M5 0H130C132.761 0 135 2.23858 135 5V35C135 37.7614 132.761 40 130 40H5C2.23858 40 0 37.7614 0 35V5C0 2.23858 2.23858 0 5 0Z"
+/>
+
+<path
+android:pathData="M0 0V40H135V0"
+android:fillColor="#000000"
+/>
+
+<path
+android:pathData="M5 0H130C132.761 0 135 2.23858 135 5V35C135 37.7614 132.761 40 130 40H5C2.23858 40 0 37.7614 0 35V5C0 2.23858 2.23858 0 5 0Z"
+android:strokeWidth="2"
+android:strokeColor="#A6A6A6"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Mobile app store badge -->
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/mobile_app_"
+android:layout_width="120dp"
+android:layout_height="40dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="232dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4714dp"
+android:background="@drawable/mobile_app_"
+ />
+
+
+<!-- drawable/mobile_app_.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="120dp"
+android:height="40dp"
+android:viewportWidth="120"
+android:viewportHeight="40"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M7 0H113C116.866 0 120 3.13401 120 7V33C120 36.866 116.866 40 113 40H7C3.13401 40 0 36.866 0 33V7C0 3.13401 3.13401 0 7 0Z"
+/>
+
+<path
+android:pathData="M0 0V40H120V0"
+android:fillColor="#0C0D10"
+/>
+
+<path
+android:pathData="M7 0H113C116.866 0 120 3.13401 120 7V33C120 36.866 116.866 40 113 40H7C3.13401 40 0 36.866 0 33V7C0 3.13401 3.13401 0 7 0Z"
+android:strokeWidth="2"
+android:strokeColor="#A6A6A6"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Ellipse 60 -->
+<View
+android:id="@+id/ellipse_60"
+android:layout_width="139dp"
+android:layout_height="127dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="76dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="23dp"
+android:background="@drawable/ellipse_60"
+ />
+
+
+<!-- drawable/ellipse_60.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="139dp"
+android:height="127dp"
+android:viewportWidth="139"
+android:viewportHeight="127"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M139 63.5C139 98.5701 107.884 127 69.5 127C31.1162 127 0 98.5701 0 63.5C0 28.4299 31.1162 0 69.5 0C107.884 0 139 28.4299 139 63.5Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- Ellipse 61 -->
+<View
+android:id="@+id/ellipse_61"
+android:layout_width="25dp"
+android:layout_height="26dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="1255.61dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="4663dp"
+android:background="@drawable/ellipse_61"
+ />
+
+
+<!-- drawable/ellipse_61.xml -->
+<vector
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:aapt="http://schemas.android.com/aapt"
+android:width="25dp"
+android:height="26dp"
+android:viewportWidth="25"
+android:viewportHeight="26"
+ >
+
+<group>
+
+<clip-path
+android:pathData="M25 13C25 20.1797 19.4036 26 12.5 26C5.59644 26 0 20.1797 0 13C0 5.8203 5.59644 0 12.5 0C19.4036 0 25 5.8203 25 13Z"
+/>
+
+</group>
+
+</vector>
+
+
+
+<!-- GH₵40.00 -->
+<TextView
+android:id="@+id/gh_40_00"
+android:layout_width="62dp"
+android:layout_height="15dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="817dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="339dp"
+android:text="@string/gh_40_00"
+android:textAppearance="@style/gh_40_00"
+android:gravity="top"
+ />
+
+<!--
+Font family: Arial
+Line height: 15sp
+(identical to box height)
+-->
+<!-- styles.xml -->
+<style name="gh_40_00">
+
+<item name="android:textSize">
+13sp
+</item>
+
+<item name="android:textColor">
+#000000
+</item>
+
+</style>
+
+
+<!-- strings.xml -->
+<string name="gh_40_00">
+
+GH\u00E2\u0082\u00B540.00
+</string>
